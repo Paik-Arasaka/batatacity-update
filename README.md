@@ -14,11 +14,7 @@
 
 ###
 
-<p align="left">⚙️ Sistema de Attachs Para Policiais<br>🚫 Sistema de AFK<br>📺 Sistema de TV/computadores<br>🎲 Sistema de iteracao(F9)<br>🎵Sistema de Musica /som<br>🔫novo arsenal<br>🤖novo sistema de IA<br>📸sistema de camera /cam<br>🖥️sistema de graficos /fpsmenu</p>
-
-###
-
-<p align="left">🛠️ Tempo de Craft Reduzido<br>💲 Reduçao de preços em alguns carros<br>🚓 Reduzido as multas/Ipva<br>🧰Fornecimento de farms atualizado +8%<br>🔫Nao e mais possivel saquear policiais<br>💰Agora so e possivel roupas com um certo contigente de policiais</p>
+<p align="left">🆕 Sistema de Attachs Para Policiais<br>🆕 Sistema de AFK<br>🆕 Sistema de TV/computadores<br>🆕 Sistema de iteracao(F9)<br>🆕Sistema de Musica /som<br>🆕novo arsenal<br>🆕novo sistema de IA<br>🆕sistema de camera /cam<br>🆕sistema de graficos /fpsmenu</p>
 
 ###
 
@@ -26,11 +22,23 @@
 
 ###
 
+<p align="left">📌 Tempo de Craft Reduzido<br>📌 Reduçao de preços em alguns carros<br>📌 Reduzido as multas/Ipva<br>📌Fornecimento de farms atualizado +8%<br>📌Nao e mais possivel saquear policiais<br>📌Agora so e possivel roupas com um certo contigente de policiais</p>
+
+###
+
+<h2 align="left">Police System</h2>
+
+###
+
+<p align="left">👮🏾‍♂️Nova g36 MKII Para policia<br>👮🏾‍♂️Nova Sniper para Policia(Apenas cargos topo)<br>👮🏾‍♂️Balanceamento das armas Recuo Melhorado<br>👮🏾‍♂️Blip de attachs nas DP's caso nao tenha e so contatar<br>👮🏾‍♂️Novo arsenal da polica agora temos 2 arsenais com armas diferente</p>
+
+###
+
 <h2 align="left">Mapas</h2>
 
 ###
 
-<p align="left">Nova DP da Policia civil<br>Novo Hospital<br>Novo Mapa CatCafe UwU</p>
+<p align="left">👷🏾Nova DP da Policia civil<br>👷🏾Novo Hospital<br>👷🏾Novo Mapa CatCafe UwU<br>👷🏾 Correcoes em mapas bugados</p>
 
 ###
 
